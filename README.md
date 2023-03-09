@@ -10,9 +10,8 @@
 
 <p align="center">- 👯 I’m looking to collaborate on **Wikideas**
 
-<p align="center">- 👨‍💻 All of my projects are available at [https://github.com/zeusve](https://github.com/zeusve)
+<p align="center">- 👨‍💻 All of my projects are available at https://github.com/zeusve
 
-<p align="center">- 📄 Know about my experiences [https://www.zviso.dev/](https://www.zviso.dev/)
 
 
 <h3 align="center">Connect with me:</h3>
