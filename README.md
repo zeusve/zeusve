@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/zeusve](https://github.com/zeusve)
 
 - 📄 Know about my experiences [https://www.zviso.dev/](https://www.zviso.dev/)
-<p align="center">
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
