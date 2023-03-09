@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeusve&label=Profile%20views&color=0e75b6&style=flat" alt="zeusve" /> </p>
 
 
-<p align="center">- 🔭 I’m currently working on [IDEAS Desarrollador de aplicaciones Java](private)
+<p align="center">- 🔭 I’m currently working on IDEAS Java Web Developer
 
 <p align="center">- 🌱 I’m currently learning **more about API's**
 
