@@ -2,18 +2,18 @@
 <h3 align="center">A passionate backend developer from Spain</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeusve&label=Profile%20views&color=0e75b6&style=flat" alt="zeusve" /> </p>
-<p align="center">
 
-- 🔭 I’m currently working on [IDEAS Desarrollador de aplicaciones Java](private)
 
-- 🌱 I’m currently learning **more about API's**
+<p align="center">- 🔭 I’m currently working on [IDEAS Desarrollador de aplicaciones Java](private)
 
-- 👯 I’m looking to collaborate on **Wikideas**
+<p align="center">- 🌱 I’m currently learning **more about API's**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zeusve](https://github.com/zeusve)
+<p align="center">- 👯 I’m looking to collaborate on **Wikideas**
 
-- 📄 Know about my experiences [https://www.zviso.dev/](https://www.zviso.dev/)
-</p>
+<p align="center">- 👨‍💻 All of my projects are available at [https://github.com/zeusve](https://github.com/zeusve)
+
+<p align="center">- 📄 Know about my experiences [https://www.zviso.dev/](https://www.zviso.dev/)
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
