@@ -1,27 +1,62 @@
-<h1 align="center">Hi 👋, I'm Zeus</h1>
-<h3 align="center">A passionate backend developer from Spain</h3>
+<div align="center">
+  <h1>Hola, soy Zeus Viso 👋</h1>
+  <h3>Backend Software Engineer | Especialista en Java & Ecosistema Spring</h3>
+  
+  <p>
+    Desarrollador enfocado en la construcción de arquitecturas robustas, escalables y orientadas a la calidad del código. Apasionado por el desarrollo backend estructural y la integración de APIs con buenas prácticas.
+  </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeusve&label=Profile%20views&color=0e75b6&style=flat" alt="zeusve" /> </p>
+  <p>
+    <a href="https://www.linkedin.com/in/zve/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
+---
 
-<p align="center">- 🔭 I’m currently working on IDEAS Java Web Developer
+### 🚀 Sobre mí
 
-<p align="center">- 🌱 I’m currently learning **more about API's**
+- 🔭 Actualmente trabajando en **IDEAS Java Web Developer**.
+- 🌱 Profundizando mis conocimientos en **Arquitectura de APIs y Microservicios**.
+- 👯 Colaborando activamente en el proyecto **Wikideas**.
+- 🛠️ **Enfoque técnico:** Desarrollo nativo, código limpio y cero parches. Apuesto por la calidad mediante metodologías de testing exhaustivas.
 
-<p align="center">- 👯 I’m looking to collaborate on **Wikideas**
+---
 
-<p align="center">- 👨‍💻 All of my projects are available at https://github.com/zeusve
+### 💻 Stack Tecnológico y Herramientas
 
+He organizado mi stack en las tecnologías base donde aporto valor estructural:
 
+**Lenguajes y Frameworks**
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/zve/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zve/" height="30" width="40" /></a>
-</p>
+**Bases de Datos**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+**DevOps, Herramientas y Control de Versiones**
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeusve&show_icons=true&locale=en&layout=compact" alt="zeusve" /></p>
+**Testing y Calidad de Código** *(Ver repositorios de ejemplo)*
+<br>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+<img src="https://img.shields.io/badge/Mockito-8D6748?style=for-the-badge&logo=mockito&logoColor=white" />
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeusve&show_icons=true&locale=en" alt="zeusve" /></p>
+---
+
+### 📊 Métricas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeusve&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeusve&layout=compact&theme=radium&hide_border=true" alt="Lenguajes más usados" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeusve&label=Visitas+al+perfil&color=0e75b6&style=flat-square" alt="Visitas" />
+</div>
