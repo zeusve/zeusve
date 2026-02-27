@@ -1,11 +1,11 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=150&section=header&text=Zeus%20Viso&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=QA%20Engineer%20%7C%20AI%20%26%20Automation%20%7C%20Founder%20%40%20Znatix&descAlignY=65&descAlign=50" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=150&section=header&text=Zeus%20Viso&fontSize=55&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%" />
 
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=QA+Engineer+%7C+Calidad+y+Seguridad+como+base;Founder+%40+Znatix+%7C+Automatizaci%C3%B3n+Empresarial;AI+Specialist+%7C+Arquitecturas+LLM+Privadas+(OpenClawd);Zero+Parches+%7C+C%C3%B3digo+Limpio" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=QA+Engineer+%7C+Calidad+y+Seguridad+como+base;Founder+%40+Znatix+%7C+Automatizacion+Empresarial;AI+Specialist+%7C+Arquitecturas+LLM+Privadas;Zero+Parches+%7C+Codigo+Limpio" alt="Typing SVG" />
   </a>
 
   <br>
@@ -41,11 +41,11 @@
       <h3>🛠️ Stack Tecnológico</h3>
       <p><b>QA, Testing & Automation</b></p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=selenium,cypress,postman,python,docker&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=selenium,cypress,postman,python,docker&theme=dark" alt="QA Stack" />
       </a>
       <p><b>AI, Backend & Infraestructura</b></p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,postgres,aws,linux,git&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=java,spring,postgres,aws,linux,git&theme=dark" alt="Backend Stack" />
       </a>
     </td>
   </tr>
@@ -53,12 +53,27 @@
 
 ---
 
-### 📊 Radar de Actividad
+### 🧠 Ecosistema & Foco Actual
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeusve&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeusve&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Lenguajes más usados" width="48%" />
-</div>
+<table align="center" width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="33%" align="center" style="border: none;">
+      <br>
+      <img src="https://img.shields.io/badge/OpenClawd-Variante_Privada-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenClawd" />
+      <p><i>Arquitectura LLM segura e I+D</i></p>
+    </td>
+    <td width="33%" align="center" style="border: none;">
+      <br>
+      <img src="https://img.shields.io/badge/Znatix-Automatizacion_B2B-0D1117?style=for-the-badge&logo=kalilinux&logoColor=0e75b6&color=000000" alt="Znatix" />
+      <p><i>Optimización y despliegue</i></p>
+    </td>
+    <td width="33%" align="center" style="border: none;">
+      <br>
+      <img src="https://img.shields.io/badge/QA_Engineering-Zero_Parches-25A162?style=for-the-badge&logo=checkmarx&logoColor=white" alt="QA" />
+      <p><i>Testing, Calidad y Seguridad</i></p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <br>
